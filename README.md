@@ -1,2 +1,2 @@
 # factorial
-printing of factorial of given number
+printing factorial of given number
